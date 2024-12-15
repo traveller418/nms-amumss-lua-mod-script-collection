@@ -77,8 +77,8 @@ REWARD_L =
           <Property value="GcRewardTableItem.xml">
             <Property name="PercentageChance" value="100" />
             <Property name="Reward" value="GcRewardMoney.xml">
-              <Property name="AmountMin" value="100" />
-              <Property name="AmountMax" value="100" />
+              <Property name="AmountMin" value="10000" />
+              <Property name="AmountMax" value="30000" />
               <Property name="RoundNumber" value="False" />
               <Property name="Currency" value="GcCurrency.xml">
                 <Property name="Currency" value="Specials" />
