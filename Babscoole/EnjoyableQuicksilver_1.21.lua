@@ -251,7 +251,7 @@ Rewards =
     ["IDS"] = {"WALKER_LOOT"},
   },
   {
-    ["REWARD"] = REWARD_L,
+    ["REWARD"] = REWARD_L, (30000)
     ["IDS"] = {"PIRATE_BOUNTY3", "PROC_PROD_CHEST", "R_SEACHEST", "R_SALVAGE", "R_CRASHSITE_FLY"},
   },
   {
